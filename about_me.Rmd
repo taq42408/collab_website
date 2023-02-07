@@ -1,7 +1,14 @@
 ---
-title: "about us"
-output: html_document
 date: "2023-02-07"
+output: html_document
+navbar:
+  title: "Our collaborative website"
+  left:
+    -text: "Cars"
+    href: index.html
+    -text: "About"
+    href: about.html
+    output_dir: "."
 ---
 
 ```{r setup, include=FALSE}
