@@ -4,8 +4,6 @@ output: html_document
 navbar:
   title: "Our collaborative website"
   left:
-    -text: "Cars"
-    href: index.html
     -text: "About"
     href: about.html
     output_dir: "."
