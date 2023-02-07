@@ -13,8 +13,6 @@ navbar:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<<<<<<< HEAD
+
 this is annas, tomas, jess's webside 
-=======
-this is annas, tomas, jess's website
->>>>>>> c44a39a5635d2f3305967712fe0f3ae7e4656c1a
+
