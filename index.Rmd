@@ -1,14 +1,21 @@
 ---
-date: "2023-02-07"
-output: html_document
+name: "our-website"
 navbar:
-  title: "Our collaborative website"
+  title: "Our Collaborative Website"
   left:
-    -text: "Cars"
-    href: index.html
-    -text: "About"
-    href: about.html
-    output_dir: "."
+    - text: "Cars"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Answers"
+      href: assignment_1.html
+output_dir: "."
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    toc: true 
+    toc_float: true 
 ---
 
 ```{r setup, include=FALSE}

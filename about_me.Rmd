@@ -8,4 +8,4 @@ date: "2023-02-07"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-this is annas, tomas, jess's webside 
+this is annas, tomas, jess's website
