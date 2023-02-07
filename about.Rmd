@@ -1,5 +1,5 @@
 ---
-title: "Our Website"
+title: "About"
 output: html_document
 date: "2023-02-07"
 ---
@@ -8,12 +8,4 @@ date: "2023-02-07"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
-
-
-
-
-
-
-
-
+Brief message about the three of us... 
