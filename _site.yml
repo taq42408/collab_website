@@ -6,7 +6,7 @@ navbar:
     - text: "Cars"
       href: index.html
     - text: "About"
-      href: about.html
+      href: aboutus.html
 output_dir: "."
 output:
   html_document:
