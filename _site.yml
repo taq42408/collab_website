@@ -16,8 +16,6 @@ output:
     toc_float: true 
 ---
 
-rmarkdown::render_site()
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
