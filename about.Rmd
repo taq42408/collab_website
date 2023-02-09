@@ -1,12 +1,11 @@
 ---
-title: "about us"
-author: "Jessica Uhrin"
-date: "2023-02-07"
+title: "About"
 output: html_document
+date: "2023-02-07"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-this is Anna, Tomas, and Jess' website
+Brief message about the three of us... 
